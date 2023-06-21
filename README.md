@@ -12,6 +12,9 @@
 <span><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></span>
 
+## Blog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@iamekgp) 
+
 ## Activities
 <img style="height:140px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkodazzang"/>&emsp;
 <img style="height:140px;" src="https://github-readme-stats.vercel.app/api?username=KodaHye&show_icons=true&theme=buefy&line_height=21"/>
