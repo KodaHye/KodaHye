@@ -16,7 +16,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@iamekgp) 
 
 ## Activities
-<img style="height:125px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkodazzang"/>&emsp;
-<img style="height:125px;" src="https://github-readme-stats.vercel.app/api?username=KodaHye&show_icons=true&theme=buefy&line_height=21"/>
-<img style="height:125px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KodaHye&exclude_repo=PyTorch&layout=compact" />
+<img style="height:122px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkodazzang"/>&emsp;
+<img style="height:122px;" src="https://github-readme-stats.vercel.app/api?username=KodaHye&show_icons=true&theme=buefy&line_height=21"/>
+<img style="height:122px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KodaHye&exclude_repo=PyTorch&layout=compact" />
 
