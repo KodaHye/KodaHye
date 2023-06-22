@@ -1,5 +1,5 @@
 ## KodaHye
-* <a href = "">Portfolio</a>
+* <a href = "#">Portfolio</a>
 
 ## Profile
 * `2019.03 ~ 2023.02` 한국기술교육대학교 컴퓨터공학부
