@@ -1,5 +1,5 @@
 ## KodaHye
-* <a href = "https://www.notion.so/About-me-ade6776e1961495c8781ef9cde1f0cb3?pvs=4">Portfolio</a>
+* <a href = "https://brawny-trumpet-e54.notion.site/About-me-ade6776e1961495c8781ef9cde1f0cb3?pvs=4">Portfolio</a>
 
 ## Profile
 * `2019.03 ~ 2023.02` 한국기술교육대학교 컴퓨터공학부
