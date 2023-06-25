@@ -11,7 +11,7 @@
 <span><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></span>
-
+<span><img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> </span>
 ## Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@iamekgp) 
 
@@ -20,3 +20,7 @@
 <img style="height:122px;" src="https://github-readme-stats.vercel.app/api?username=KodaHye&show_icons=true&theme=buefy&line_height=21"/>
 <img style="height:122px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KodaHye&exclude_repo=PyTorch&layout=compact" />
 
+
+## 고다혜
+* 1999.09.22
+* MBTI: ISFP
