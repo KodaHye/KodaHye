@@ -19,12 +19,10 @@
 <span><img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"> </span>
 <span><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> </span>
 
-<br>
 
 ## Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@iamekgp) 
 
-<br>
 
 ## Activities
 <img style="height:122px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkodazzang"/>&emsp;
