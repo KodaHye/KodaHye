@@ -21,7 +21,8 @@
 
 
 ## Blog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@iamekgp) 
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://kdhdh09.tistory.com/)
+
 
 
 ## Activities
