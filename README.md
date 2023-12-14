@@ -19,12 +19,6 @@
 <span><img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"> </span>
 <span><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> </span>
 
-
-## Blog
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://kdhdh09.tistory.com/)
-
-
-
 ## Activities
 <img style="height:122px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkodazzang"/>&emsp;
 <img style="height:122px;" src="https://github-readme-stats.vercel.app/api?username=KodaHye&show_icons=true&theme=buefy&line_height=21"/>
