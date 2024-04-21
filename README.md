@@ -19,9 +19,6 @@
 <span><img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"> </span>
 <span><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> </span>
 
-## Blog
-<a href = "https://kdhdh09.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-F6F5F5?style=flat-square&logo=Tistory&logoColor=black"></a>
-
 
 ## Activities
 <img style="height:122px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkodazzang"/>&emsp;
