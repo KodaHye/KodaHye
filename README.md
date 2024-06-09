@@ -1,12 +1,3 @@
-## KodaHye
-<a href = "https://brawny-trumpet-e54.notion.site/About-me-ade6776e1961495c8781ef9cde1f0cb3?pvs=4"></a>
-<br>
-
-## Profile
-* `2023.01 ~ 2023.12` 삼성 청년 SW 아카데미 9기
-* `2021.03 ~ 2021.12` 멋쟁이 사자처럼 대학 9기 교육생
-* `2019.03 ~ 2023.02` 한국기술교육대학교 컴퓨터공학부
-<br>
 
 ## Tech Stack
 <span><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></span>
